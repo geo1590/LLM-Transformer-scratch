@@ -1,2 +1,2 @@
 # transformer-scratch
-Transformer model from scratch
+LLM Transformer from scratch using PyTorch
